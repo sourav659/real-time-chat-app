@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+.flex-sourav::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.flex-1::-webkit-scrollbar {
+  display: none;
+}
